@@ -1,6 +1,6 @@
 
-# Local LLaMA Voice Assistant
-The "Local LLaMA Voice Assistant" project integrates local language models with speech recognition to create an interactive voice-driven AI assistant. It allows users to converse with the AI using natural speech, which is converted to text, processed by the AI, and then spoken back to the user. This project is ideal for developers and enthusiasts interested in building and experimenting with voice interfaces and local AI models.
+# Local Mistral Voice Assistant
+The "Local Mistral Voice Assistant" project integrates local language models with speech recognition to create an interactive voice-driven AI assistant. It allows users to converse with the AI using natural speech, which is converted to text, processed by the AI, and then spoken back to the user. This project is ideal for developers and enthusiasts interested in building and experimenting with voice interfaces and local AI models.
 
 
 ## Acknowledgements
@@ -15,7 +15,7 @@ The "Local LLaMA Voice Assistant" project integrates local language models with 
 
 #### Overview
 
-The "Local LLaMA Voice Assistant" project combines local language models, speech recognition, and text-to-speech conversion to create an interactive voice-driven AI assistant. This documentation provides detailed information on setup, usage, and functionality.
+The "Local Mistral Voice Assistant" project combines local language models, speech recognition, and text-to-speech conversion to create an interactive voice-driven AI assistant. This documentation provides detailed information on setup, usage, and functionality.
 
 #### Setup
 
@@ -27,7 +27,7 @@ The "Local LLaMA Voice Assistant" project combines local language models, speech
      ```
 
 2. **Configure OpenAI API**:
-   - Set up your local LLaMA model server.
+   - Set up your local Mistral model server.
    - Update the API key and base URL in the script:
      ```python
      openai.api_key = "lm-studio"
