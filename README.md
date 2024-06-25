@@ -96,7 +96,7 @@ while True:
 
 ## Installation
 
-To set up the "Local LLaMA Voice Assistant" on your system, follow these steps:
+To set up the "Local Mistral Voice Assistant" on your system, follow these steps:
 
 #### 1. Prerequisites
 
