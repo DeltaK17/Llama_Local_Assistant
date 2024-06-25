@@ -143,3 +143,8 @@ This will start the voice assistant. It will listen for your speech, process it,
 - **Microphone Issues**: Ensure your microphone is correctly set up and configured in your operating system.
 - **API Errors**: Verify that the OpenAI API key and base URL are correctly set.
 - **Dependencies**: Ensure all required Python libraries are installed without errors.
+
+
+## 🔗 Links
+[LM Studio](https://lmstudio.ai/)\
+[Python Official Website](https://www.python.org/)
