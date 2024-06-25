@@ -124,7 +124,7 @@ openai.api_base = "URL_OF_LM_STUDIO_SERVER"
 
 #### 4. Download the Script
 
-Copy the provided script into a new Python file (e.g., `Mistral_chat.py`):
+Download Python file (e.g., `Mistral_chat.py`):
 
 
 
