@@ -124,7 +124,7 @@ openai.api_base = "URL_OF_LM_STUDIO_SERVER"
 
 #### 4. Download the Script
 
-Copy the provided script into a new Python file (e.g., `llama_chat.py`):
+Copy the provided script into a new Python file (e.g., `Mistral_chat.py`):
 
 
 
@@ -133,7 +133,7 @@ Copy the provided script into a new Python file (e.g., `llama_chat.py`):
 In the terminal or command prompt, navigate to the directory where you saved the script and run:
 
 ```bash
-python llama_chat.py
+python Mistral_chat.py
 ```
 
 This will start the voice assistant. It will listen for your speech, process it, and respond using the local LLaMA model.
